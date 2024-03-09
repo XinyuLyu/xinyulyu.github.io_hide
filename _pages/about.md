@@ -98,7 +98,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <div class='paper-box-text' markdown="1">
 
 [Informative Scene Graph Generation via Debiasing (Minor Revision)](https://arxiv.org/pdf/2308.05286.pdf) \\
-Lianli Gao(**Supervisor as First Author**), **Xinyu Lyu**, Yuyu Guo(**Finished the First Version**), Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
+Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
 
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
 <!-- **Code**  -->
