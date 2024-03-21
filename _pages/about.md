@@ -125,7 +125,6 @@ Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Sh
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2024.11* Outstanding Graduates of University of Electronic Science and Technology of China.
 - *2024.01* SCF Annual Outstanding Student Paper ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
 
 
