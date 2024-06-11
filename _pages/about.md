@@ -109,9 +109,10 @@ Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Sh
 
 </div>
 </div>
-
+- `Arxiv 2024` [Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimizationg](https://arxiv.org/pdf/2405.15356), Beitao Chen, **Xinyu Lyu**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
+- `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu**, Lianli Gao, Jingkuan Song.
 - `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
-- `Arxiv 2024` [Context-based Transfer and Efficient Iterative Learning for Unbiased Scene Graph Generation](https://arxiv.org/pdf/2312.17425.pdf), Qisheng Chen, **Xinyu Lyu**, Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song.
+- `Arxiv 2024` [A Sentence-Semantic-Based Watermark for Large Language Models Against Paraphrasing Attacks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774832), Han Wang, Lei Zhao, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 - `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
 - `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
 - `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
@@ -125,8 +126,8 @@ Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Sh
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2024.01* SCF Annual Outstanding Student Paper ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
-
+- *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
+- *2024.05* Academic Newcomer Honor of UESTC.
 
 
 # 📖 Educations
