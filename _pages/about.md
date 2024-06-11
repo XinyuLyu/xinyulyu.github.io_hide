@@ -127,7 +127,7 @@ Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Sh
 
 # 🎖 Honors and Awards
 - *2024.01* SCF Annual Outstanding Student Paper. ([Webpage](https://mp.weixin.qq.com/s/n1jSNB4aOd8YiYppOaf2hw))
-- *2024.05* Academic Newcomer Honor of UESTC.
+- *2024.05* Academic Newcomer Honor of UESTC. ([Webpage](https://www.scse.uestc.edu.cn/info/1017/15497.html))
 
 
 # 📖 Educations
