@@ -161,3 +161,7 @@ Lianli Gao, **Xinyu Lyu**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Sh
 - *2019.01 - 2022.12*, Research on Key Technology Research on Collaborative Deep Video Understanding, Description, and Visual Question Answering, National  Natural  Science Foundation of China (No. 61872064), **Participant**.
 - *2018.01 - 2021.12*, Research on Key Technology for Deep Visual Understanding Integrated with Natural Language Processing, National  Natural  Science  Foundation  of  China (No. 61772116), **Participant**.
 
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?xinyulyu"
+border="0" alt="Free Web Counter"></a>
+<br><a href="https://www.easycounter.com/">Website Hit Counter</a>
